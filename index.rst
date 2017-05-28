@@ -26,7 +26,7 @@ Guidelines
 ----------
 
 * A specification SHOULD be created and modified by pull requests
-  according to :doc:`1-C4/index`.
+  according to :doc:`20-C4/index`.
 * Specification lifecycle SHOULD follow the lifecycle defined in
   :doc:`2-COSS/index`.
 * Specification SHOULD use the CC0 license
