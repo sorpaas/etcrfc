@@ -9,23 +9,30 @@ Welcome to Ethereum Classic RFCs's documentation!
 .. image:: https://jenkins.that.world/buildStatus/icon?job=Ethereum%20Classic%20RFC
    :target: https://jenkins.that.world/job/Ethereum%20Classic%20RFC
 
-This is the Ethereum Classic RFC project.
+This is the inofficial Ethereum Classic RFC project. Right now this is
+a placeholder for the EVM specification, but please feel free to
+`contribute new RFCs <https://github.com/sorpaas/etcrfc/compare>`_.
 
-We collect specifications for APIs, file formats, protocols, processes and compositions of RFCs which result in a blockchain soft forks.
+We collect specifications for APIs, file formats, protocols, processes
+and compositions of RFCs which result in a blockchain soft forks.
 
-You can start contributing by sending a pull request to https://github.com/ethereumproject/rfc on GitHub.
+You can start contributing by sending a pull request to
+https://github.com/sorpaas/etcrfc on GitHub.
 
-Please `read this <https://etcrfc.that.world>`_ for the rendered content.
+Please `read this <https://etcrfc.that.world>`_ for the rendered
+content.
 
 Guidelines
 ----------
 
-* A specification SHOULD be created and modified by pull requests according to :doc:`1-C4/index`.
-* Specification lifecycle SHOULD follow the lifecycle defined in :doc:`2-COSS/index`.
+* A specification SHOULD be created and modified by pull requests
+  according to :doc:`20-C4/index`.
+* Specification lifecycle SHOULD follow the lifecycle defined in
+  :doc:`2-COSS/index`.
 * Specification SHOULD use the CC0 license
-* Specification SHOULD use `RFC 2119 <http://tools.ietf.org/html/rfc2119>`_ key words.
+* Specification SHOULD use `RFC 2119
+  <http://tools.ietf.org/html/rfc2119>`_ key words.
 * Non-cosmetic changes are allowed only on Raw and Draft specifications.
-
 
 All RFCs
 --------
