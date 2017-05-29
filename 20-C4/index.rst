@@ -2,7 +2,7 @@
 :contributors: - Pieter Hintjens <ph@imatix.com>
                - Stewart Mackenzie <setori88@gmail.com>
 
-1-C4: Collective Code Construction Contract
+20-C4: Collective Code Construction Contract
 ===========================================
 
 The Collective Code Construction Contract (C4) is an evolution of the
