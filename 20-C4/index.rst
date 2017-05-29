@@ -3,7 +3,7 @@
                - Stewart Mackenzie <setori88@gmail.com>
 
 20-C4: Collective Code Construction Contract
-===========================================
+============================================
 
 The Collective Code Construction Contract (C4) is an evolution of the
 github.com `Fork + Pull
