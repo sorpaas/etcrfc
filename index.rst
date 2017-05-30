@@ -14,13 +14,10 @@ a placeholder for the EVM specification, but please feel free to
 `contribute new RFCs <https://github.com/sorpaas/etcrfc/compare>`_.
 
 We collect specifications for APIs, file formats, protocols, processes
-and compositions of RFCs which result in a blockchain soft forks.
+and compositions of RFCs.
 
 You can start contributing by sending a pull request to
 https://github.com/sorpaas/etcrfc on GitHub.
-
-Please `read this <https://etcrfc.that.world>`_ for the rendered
-content.
 
 Guidelines
 ----------
