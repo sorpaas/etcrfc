@@ -127,7 +127,10 @@ source software projects. It has these specific goals:
 2.  To request changes, a user SHOULD log an issue on the project
     Platform issue tracker.
 3.  The user or Contributor SHOULD write the issue by describing the
-    problem they face or observe.
+    problem they face or observe. The issue can also be a feature
+    proposal that the user or Contributor plans to implement. This
+    allows big problems to be divided into smaller ones. A minimal
+    issue MAY, if possible, point to another feature issue.
 4.  The user or Contributor SHOULD seek consensus on the accuracy of
     their observation, and the value of solving the problem.
 5.  Users SHALL NOT log feature requests, ideas, suggestions, or any
